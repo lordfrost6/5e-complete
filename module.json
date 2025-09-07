@@ -1,17 +1,17 @@
 {
     "id": "5e-complete",
     "title": "5e Complete Compendium",
-    "version": "0.3.3",
+    "version": "0.3.4",
     "authors": [
         {
-            "name": "btbias",
-            "url": "https://github.com/btbias",
-            "discord": "btbias#9324"
+            "name": "lordfrost6",
+            "url": "https://github.com/lordfrost6",
+            "discord": "lordfrost6"
         }
     ],
     "compatibility": {
             "minimum": "10",
-            "maximum": "10",
+            "maximum": "13",
             "verified": "10.290"
     },
     "styles": [
